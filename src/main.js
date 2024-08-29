@@ -10,6 +10,7 @@ const galleryEl = document.querySelector('.js-gallery');
 const loadMoreBtnEl = document.querySelector('.js-load-more');
 const loader = document.querySelector('.loader');
 const lightbox = new SimpleLightbox('.gallery a');
+
 let currentPage = 1;
 let searchedValue = '';
 
