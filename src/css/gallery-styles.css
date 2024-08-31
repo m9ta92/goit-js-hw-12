@@ -17,6 +17,7 @@
     width: 100%;
     height: 156px;
     cursor: zoom-in;
+    object-fit: cover;
 }
 
 .card {
